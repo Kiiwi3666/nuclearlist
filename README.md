@@ -1,3 +1,4 @@
-# discordbotlist
+# Nuclearlist
 
-credits to Nox
+
+Uma Simples Botlist
