@@ -1,3 +1,3 @@
-# Get Started!
+# discordbotlist
 
-Add files and start typing 🎉
+credits to Nox
